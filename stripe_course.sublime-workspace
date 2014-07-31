@@ -1,0 +1,479 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"label",
+				"label	<label>"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"header",
+				"header"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"add",
+				"add_assignment_folder  (function)"
+			],
+			[
+				"vard",
+				"var_dump"
+			],
+			[
+				"ass",
+				"assignment"
+			],
+			[
+				"drive",
+				"drive_token"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"stu",
+				"student_id"
+			],
+			[
+				"assig",
+				"assignment_id"
+			],
+			[
+				"_",
+				"_blank"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"set_",
+				"set_flashdata	CI - Set flashdata"
+			],
+			[
+				"form",
+				"form_close	CI - Form Helper - Close"
+			],
+			[
+				"unl",
+				"unlink"
+			],
+			[
+				"fget",
+				"fgetcsv"
+			],
+			[
+				"delete_clas",
+				"delete_class_grades"
+			],
+			[
+				"dele",
+				"delete-grades"
+			],
+			[
+				"check",
+				"checkboxes"
+			],
+			[
+				"form_",
+				"form_open"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "coupons/index.php",
+			"settings":
+			{
+				"buffer_size": 5573,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "coupons/process.php",
+			"settings":
+			{
+				"buffer_size": 1164,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 313.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sparkygoblue/Documents/stripe_files/coupons/cancel.php",
+		"/Users/sparkygoblue/Documents/stripe_files/coupons/logout.php",
+		"/Users/sparkygoblue/Documents/stripe_files/coupons/change_plan.php",
+		"/Users/sparkygoblue/Documents/stripe_files/coupons/login.php",
+		"/Users/sparkygoblue/Documents/stripe_files/coupons/index.php",
+		"/Users/sparkygoblue/Documents/stripe_files/coupons/process.php",
+		"/Users/sparkygoblue/Documents/stripe_files/webhooks/webhook.php",
+		"/Users/sparkygoblue/Documents/stripe_files/custom_form/process.php",
+		"/Users/sparkygoblue/Documents/stripe_files/custom_form/success.php",
+		"/Users/sparkygoblue/Documents/stripe_files/subscriptions/admin.php",
+		"/Users/sparkygoblue/Documents/stripe_files/subscriptions/cancel.php",
+		"/Users/sparkygoblue/Documents/stripe_files/subscriptions/database.php",
+		"/Users/sparkygoblue/Documents/stripe_files/subscriptions/session_check.php",
+		"/Users/sparkygoblue/Documents/stripe_files/subscriptions/process.php",
+		"/Users/sparkygoblue/Documents/stripe_files/subscriptions/change_plan.php",
+		"/Users/sparkygoblue/Documents/stripe_files/checkout_customize/process.php",
+		"/Users/sparkygoblue/Documents/stripe_files/customers/process_logged_in.php",
+		"/Users/sparkygoblue/Documents/stripe_files/customers/purchase.php",
+		"/Users/sparkygoblue/Documents/stripe_files/stripe_checkout/process.php",
+		"/Users/sparkygoblue/Documents/stripe_files/subscriptions/subscribers.sql",
+		"/Users/sparkygoblue/Documents/stripe_files/customers/process.php",
+		"/Users/sparkygoblue/Documents/stripe_files/subscriptions/upgrade.php",
+		"/Users/sparkygoblue/Documents/stripe_files/subscriptions/downgrade.php",
+		"/Users/sparkygoblue/Documents/stripe_files/subscriptions/index.php",
+		"/Users/sparkygoblue/Documents/stripe_files/subscriptions/login_user.php",
+		"/Users/sparkygoblue/Documents/stripe_files/subscriptions/login.php",
+		"/Users/sparkygoblue/Documents/stripe_files/stripe_checkout.php",
+		"/Users/sparkygoblue/Documents/stripe_files/stripe_checkout/index.php",
+		"/Users/sparkygoblue/Documents/stripe_files/customers/accounts.sql",
+		"/Users/sparkygoblue/Documents/stripe_files/customers/index.php",
+		"/Users/sparkygoblue/Documents/stripe_files/customers/login.php",
+		"/Users/sparkygoblue/Documents/stripe_files/customers/login_user.php",
+		"/Users/sparkygoblue/Documents/stripe_files/customers/database.php",
+		"/Users/sparkygoblue/Documents/stripe_files/customers/process_logged_in.php\nprocess_logged_in.php",
+		"/Users/sparkygoblue/Documents/stripe_files/customers/success.php",
+		"/Users/sparkygoblue/Documents/stripe_files/customers/logout.php",
+		"/Users/sparkygoblue/Documents/stripe_files/css/styles.css",
+		"/Users/sparkygoblue/Documents/stripe_files/custom_form/index.php",
+		"/Users/sparkygoblue/Documents/stripe_files/customers",
+		"/Users/sparkygoblue/Documents/stripe_files/custom_form/card_error.php",
+		"/Users/sparkygoblue/Documents/stripe_files/stripe_checkout/success.php",
+		"/Users/sparkygoblue/Documents/stripe_files/checkout_customize/index.php",
+		"/Users/sparkygoblue/Documents/stripe_files/stripe_checkout/card_error.php",
+		"/Users/sparkygoblue/Documents/stripe_files/stripe_checkout/<?php",
+		"/Users/sparkygoblue/Documents/stripe_files/google_checkout.php",
+		"/Users/sparkygoblue/Dropbox/projects/submitbox/application/views/drive_auth/new_auth_view.php",
+		"/Users/sparkygoblue/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/sparkygoblue/Dropbox/projects/submitbox/application/core/Public_Controller.php",
+		"/Users/sparkygoblue/Dropbox/projects/submitbox/application/controllers/main.php",
+		"/Users/sparkygoblue/Dropbox/projects/submitbox/css/landing.css",
+		"/Users/sparkygoblue/Dropbox/projects/submitbox/application/controllers/drive_auth.php",
+		"/Users/sparkygoblue/Dropbox/projects/submitbox/application/views/dropbox_auth/new_auth_view.php",
+		"/Users/sparkygoblue/Dropbox/projects/submitbox/application/views/main/error_view.php",
+		"/Users/sparkygoblue/Dropbox/projects/submitbox/css/signup2.css",
+		"/Users/sparkygoblue/Dropbox/projects/submitbox/application/core/MY_Model.php",
+		"/Users/sparkygoblue/Dropbox/projects/submitbox/application/controllers/a.php",
+		"/Users/sparkygoblue/Dropbox/projects/submitbox/application/controllers/classes.php",
+		"/Users/sparkygoblue/Dropbox/projects/submitbox/application/controllers/course.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/controllers/teacher.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/models/billing_model.php",
+		"/Users/sparkygoblue/Dropbox/projects/submitbox/index.php",
+		"/Users/sparkygoblue/Dropbox/projects/submitbox/application/controllers/login.php",
+		"/Users/sparkygoblue/Dropbox/projects/submitbox/application/views/teacher/payment_view.php",
+		"/Users/bsparks/Desktop/codeschool/javascript/ember/isPalindrome.py",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/controllers/main.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/controllers/login.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/models/login_model.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/controllers/remote_login.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/views/templates/topbar_student.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/views/templates/header_student.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/Gruntfile.js",
+		"/Users/bsparks/Dropbox/projects/submitbox/css/build/student/production.min.css",
+		"/Users/bsparks/Dropbox/projects/submitbox/css/student.css",
+		"/Users/bsparks/Dropbox/projects/submitbox/css/universal.css",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/models/drive_files_model.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/views/drive_auth/new_auth_view.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/views/student/assignment_view.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/views/student/course_view.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/models/submissions_model.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/views/assignments/detailed_view.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/controllers/student.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/models/classes_model.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/models/assignments_model.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/views/dropbox_auth/new_auth_view.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/views/assignments/assignment_view.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/controllers/dropbox_auth.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/controllers/drive_auth.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/controllers/classes.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/views/dropbox_auth/authorize_view.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/views/dropbox_auth/new_authorize_view.php",
+		"/Users/bsparks/Desktop/p2_01.pl",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/controllers/assignments.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/logs/log-2014-04-20.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/views/students/students_view.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/views/templates/footer_teacher.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/js/plugins.js",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/views/teacher/account_view.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/models/dropbox_files_model.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/models/drive_student_folders_model.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/config/submitbox.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/views/templates/footer_main.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/views/forgot_pass/forgot_pass_view.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/views/forgot_pass/password_changed_view.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/views/forgot_pass/expired_view.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/views/forgot_pass/success_view.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/views/forgot_pass/reset_pass_view.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/controllers/forgot_pass.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/models/notifications_model.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/core/Teacher_Controller.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/third_party/google-api-php-client/src/contrib/Google_DriveService.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/controllers/emulate.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/submitbox.sublime-project",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/controllers/a.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/.gitignore",
+		"/Users/bsparks/Dropbox/projects/submitbox/phpinfo.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/logs/log-2014-03-23.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/views/classes/enrollment_view.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/views/classes/delete_view.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/views/classes/deactive_view.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/views/classes/class_view.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/views/assignments/delete_view.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/views/assignments/activity_view.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/controllers/cron.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/views/assignments/add_view.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/views/assignments/edit_view.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/views/templates/header_teacher.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/core/MY_Model.php",
+		"/Users/bsparks/Dropbox/projects/submitbox/application/models/teachers_model.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/bsparks/Dropbox/projects/submitbox"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dropbox",
+			"assignment",
+			"studentFolder",
+			"Google_DriveFile",
+			"class_id",
+			"teacher_id",
+			"_connect",
+			"usr",
+			"icon_image",
+			"total_assignments"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "coupons/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5573,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3187,
+								3135
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 663.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "coupons/process.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1164,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								455,
+								455
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"project": "stripe_course.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"classes.php",
+				"submitbox/application/controllers/classes.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
